@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\BlazorDialog\\BlazorDialog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorDialog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorDialog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\BlazorDialog\\BlazorDialog\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\BlazorDialog\\BlazorDialog\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\BlazorDialog\\BlazorDialog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\BlazorDialog\\BlazorDialog\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorDialog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorDialog.props",
+      "PackagePath": "build\\BlazorDialog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorDialog.props",
+      "PackagePath": "buildMultiTargeting\\BlazorDialog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorDialog.props",
+      "PackagePath": "buildTransitive\\BlazorDialog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
